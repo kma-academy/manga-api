@@ -4,7 +4,8 @@
   "description": "Api for app manga",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index",
+    "develop": "nodemon index"
   },
   "repository": {
     "type": "git",
