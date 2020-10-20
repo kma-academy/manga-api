@@ -1,0 +1,23 @@
+{
+  "name": "manga-api",
+  "version": "1.0.0",
+  "description": "Api for app manga",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kma-academy/manga-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kma-academy/manga-api/issues"
+  },
+  "homepage": "https://github.com/kma-academy/manga-api#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
