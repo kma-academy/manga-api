@@ -1,12 +1,22 @@
 {
     "openapi": "3.0.2",
     "info": {
-        "title": "API Title",
-        "version": "1.0"
+        "title": "Manga API Document",
+        "version": "1.0.0",
+        "contact": {
+            "name": "Trần Đức Cường",
+            "email": "clonebmn2itt@gmail.com"
+        },
+        "description": "# Giới thiệu\nApi dùng cho app đọc truyện tranh."
     },
     "servers": [
         {
-            "url": "https://api.server.test/v1"
+            "url": "https://manga-api.herokuapp.com",
+            "description": "Live Server"
+        },
+        {
+            "url": "http://localhost:8000",
+            "description": "Sandbox Server"
         }
     ],
     "paths": {}
