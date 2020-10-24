@@ -5,7 +5,13 @@
         "version": "1.0.0",
         "contact": {
             "name": "Trần Đức Cường",
+            "url": "https://www.facebook.com/ShiinDz",
             "email": "clonebmn2itt@gmail.com"
+        },
+        "termsOfService": "http://swagger.io/terms/",
+        "x-logo": {
+            "url": "https://i.imgur.com/XambEVe.png",
+            "backgroundColor": "#0033A0"
         },
         "description": "# Giới thiệu\nApi dùng cho app đọc truyện tranh."
     },
